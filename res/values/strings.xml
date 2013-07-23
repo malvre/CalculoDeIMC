@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cálculo de IMC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="altura_cm_">Altura (cm)</string>
+    <string name="peso_kg_">Peso (kg)</string>
+    <string name="labelCalcular">Calcular</string>
+    <string name="por_marcelo_rezende">por Marcelo Rezende</string>
+
+</resources>
